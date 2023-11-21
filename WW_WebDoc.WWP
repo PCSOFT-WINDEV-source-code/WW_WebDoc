@@ -1,0 +1,243 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_WebDoc
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : The purpose of the project is ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAABOiCH991DPak1vZ4deYyh92Xp1agmOllaltXM7Y3rBHKny3u/qB613bYS9E8tHSqNTRyYUpqEAUpwHN6b0Ksqxt/8fp4GncvnYR0XnkVakVD4S6gCIJZja0qVpB+XmIGg42Oo+tuNPdAVH6YuZCc8D+dFayZt2XYN/FRxyBldRzu4V9eO5kAtgvT+x2aEWNsH0L6e8EkByb4HZW/8TQLjXRyGLboV+W3qovvg2MeFLb8R1I7ZTFsEEEvPaWgV8HneJDdTPeb29BmEFFhbBabjEJZqzZ0KavMBVsdhXQnnS4WQCRIdxyEyDt2ucX9KpI10EP2VdhezLFsMSEbwCTOlasTWu25MEvdhE048mRY0cz2ruK3kbR+TSB1t+zmTHjWGLxwpX+JytQxMfcfo5dGWtmWM74x5U+gBLMfvWJQhaEn7R8luYrDV43TghaYlD19fVe6IaunKK5z9fion1vX5WCHYg9aefHRPPhp94ykJ054vKhBY3h9OV2sGYIs1bAF6bNb/4B4tgpU94RZtshFX7cs1Xv+dtLksaZWJgmovDO7sfKYL8RgBXhg1aBXum5K/Bzmch9ZwjgET+2iBOOT2+FAsiEm32RpGjuRVfZi4YOWj1c5eQiplOplMjciyP9JsPR0VcgMD2Psy7JTfQeGMN/0wmNqNJ74N/6yo96dAjm+XSzKjcQ8s4TDI8p2//FYP6kJ11D3EXHdCW44/rXL1vfmkqmJma3nFqatRv321VcOvKl+4JYVc3CE3YOW+yHFCZmr8jatrYdQW+P5WDqGy5RZ2ZChsKD8J2dpXTfblSWNxaxnDs16El7TjpP2jm8HOTXluVptYDD4AeEhE0hsJWGcNZlwlrYZDRTlzz05R2hqzEvCJvxK0vB49KGWS6wd1k+dAre1/gfLx+y4B2c4eeFX4Jq0drJlzdojOHQ4LRh1QSkaO6jTq7DH8vMlab/txu4w/i7gIHDXDq9Vjy2f2KUcURia7jvOR9ydoy0LC71rK9NE295s6bU2Nt9pQybPueC9zOjXnoxXK1DmApGA/2AMzqeY9pIQQvUjeBqNmAzkmgjbW3tJTtSJfwY3JPS90ehHazL2i31p3a0IT9bLHijT2Diz65VhWpXlBNiNiU+jXXxtBNdnWyPwlRlOQ5+awHk2ejy9cdaWmokb9EeL1AADZPfly0kZvFxt17dE2OS7NZmct2D0j+Et4/8PutCFnu2Kzp1U3cnAdYQBcz1dc63BjHPcKZc3G/67K/Pd/oR2HwoYDgJw1QcvjfXmR7Or5CooF9XKPLHqZQDkiBnei9nMCfus4KZs4+igFsVH0UH194ks/BgmKPhzUUwTfSXQZi0ucxKP24QV+JhAA7XQINRLeQgh0JedNgjmUwNBxJ5AXHyl8vs/meYo/CFz1eBYUryS1Elp/zXUGjHd/ORFdW4WtsKxXSNNQ53xrbksGYIupu9WE+IzpqK8dTH0PF1ZIBj0wIb5HPNO5uu0JQva/rSexYzfWtATex0j2HbT6N9xMBp+/G/ni/fDjynI1TWKuEnBcVoML/E++yk+5Ujf9GwHpBRLQKBZ1x/nTxtGYnrE024svLxGYpr4JwqQx5i8M2HvRHuT3Y7PtC3OxjM+Sd0UKFQo2BiLuXhcNiN4U4BfujAvQFa1SaUHLXc1FUgwbxu7TV3LK18Dp7STZb4UTeOL6sM44hne3VNQ5ii4mzxBkTFNFIBoe5XG0K0ecJ4CsXD70MPBrMy0yEiVh2B2ZqSn2sU1SrK4ESzAu7PnMokwCSJDizm/b0Om2xfpW3LlWnIO4HPzIvKG/N0sqT/678zWyTpO67ZcWvppoN3GU7ZJg8sOu2GObkFGxHWl6sO2yWAJTGvb7wrlA9FoQziqPUG1WmHgDOP5LMfKe7sAieUcatI9QFuUfkcnQLusy5667RH34ov1t33tItkzHSljdYTtOklzeHrArk
+ configurations :
+  -
+    name : WW_WebDoc
+    internal_properties : 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
+    configuration_id : 5010203457157143589
+    type : 2
+    generation_name : WW_WebDoc.wdl
+    version :
+     major_version : 26
+     minor_version : 102
+     internal_generation_version : 1
+    language : 2
+    64bits : true
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAADtg4Eqg5EXqs0gbZZEmwvn168roLqK+V/wxne+1qYu34jWIRW1fqKbKSxHZOHqvV6XMruc+4lk5Q==
+ elements :
+  identifier : 0x4aaf9659000242cb
+  elements :
+   -
+     name : pCategories
+     identifier : 0x4aafb27d000a3095
+     internal_properties : CAAAAAgAAABxw287hEEA8oxeOdxCtOe0LgpKXSEgrxnvR1nyoIFcv8hOeHnX71xpJ5M/eFu/eGP0
+     physical_name : .\pCategories.wdg
+     type : 7
+   -
+     name : PAGE_DocumentHistory
+     identifier : 0x4ab735410012d02a
+     internal_properties : CAAAAAgAAAB51aHlwr/3+F2qor/UQSBRkeDYMBM0mgpTq6KLCOKwSLAQNV+8BJzXHhqEfAT8hHRc5A==
+     physical_name : .\PAGE_DocumentHistory.wwh
+     type : 65538
+   -
+     name : QRY_DocumentHistory
+     identifier : 0x4ab73c160013818f
+     internal_properties : CAAAAAgAAAC8mpSAP2RMX2a/hxB9mwOw8LNPx2oAX2uOH6HMdgCctADuFX+TbQO8M+/p11+RaV+pqQ==
+     physical_name : .\QRY_DocumentHistory.WDR
+     type : 5
+   -
+     name : PAGE_FindResult
+     identifier : 0x4aafc56b00172273
+     internal_properties : CAAAAAgAAAAgHhgEo5iQS2K782wZqMuQpPHDKySVQ51CrpVw0VkzxTu3aKxnUe+oL+vVI+Md5dslLQ==
+     physical_name : .\PAGE_FindResult.wwh
+     type : 65538
+   -
+     name : QRY_StandardSearch
+     identifier : 0x4ab78748003738b3
+     internal_properties : CAAAAAgAAAA9GRUJtuPL1PkG3ksAUDhZlbLoSAFHChZOx9KL4bXhDyk7Rk7AOMiDynZgWNgI8OAoKA==
+     physical_name : .\QRY_StandardSearch.WDR
+     type : 5
+   -
+     name : PAGE_Identification
+     identifier : 0x4ab38e76000ffe3c
+     internal_properties : CAAAAAgAAAA4FmC8izB4o7rDq4TBEuf0BEXTW4hVTR+iFhCGX7vRBznJ3ib/+ZfQBzOtC4tFPbMdJQ==
+     physical_name : .\PAGE_Identification.wwh
+     type : 65538
+   -
+     name : QRY_FullTextSearch
+     identifier : 0x4ab786d200356a1f
+     internal_properties : CAAAAAgAAADMSiRwz/S87/YP10ANXzNIECNPZ1o40TqKmIVgQlS4aJyyMVPDPdOMw395R88B+e/ZWQ==
+     physical_name : .\QRY_FullTextSearch.WDR
+     type : 5
+   -
+     name : pTAG
+     identifier : 0x4aafb71f000d46b4
+     internal_properties : CAAAAAgAAAAqIBJ2tfK65fgF0U47XsVuhjtFVW6HmUa2NcXyM9fFc7FNVk7FM82GyXVvSckH8+UvNw==
+     physical_name : .\pTAG.wdg
+     type : 7
+   -
+     name : PAGE_DocumentList
+     identifier : 0x4aafc0a80011871e
+     internal_properties : CAAAAAgAAACGjO4y8a4GKQyZVcKP1L3WGrvB2e7fUK+KlNjg3U1P+TPDwNRBv1EKTckzjRXLtymTkw==
+     physical_name : .\PAGE_DocumentList.wwh
+     type : 65538
+   -
+     name : pTools
+     identifier : 0x4ab3c20c00137d7d
+     internal_properties : CAAAAAgAAADGTC5yse7G6cxZFQJPlX0WouXhsZilk012CTmBUKrqFtJof5WBfxFKjYlzTdUL9+nTUw==
+     physical_name : .\pTools.wdg
+     type : 7
+   -
+     name : PAGE_Management
+     identifier : 0x4ab8a5dd0016a7f0
+     internal_properties : CAAAAAgAAAB10V1BfttTDNEuduPo7/C59bA8fFudsgmi5hOS2jBavgLuFw0Y4HArop4Y4KBQKJhg4A==
+     physical_name : .\PAGE_Management.wwh
+     type : 65538
+   -
+     name : QRY_DocumentList
+     identifier : 0x4ab396a20010e994
+     internal_properties : CAAAAAgAAADudMba6ZaeURSxnYrH7/GSShlBCTBWndRywvn0Oly4cJiaBR8J94nCNeHbJe3jnxH7ew==
+     physical_name : .\QRY_DocumentList.WDR
+     type : 5
+   -
+     name : PAGE_DocumentSearch
+     identifier : 0x4aafc5510015bc03
+     internal_properties : CAAAAAgAAAAhHRkNuufP4OUC6kcMJThRmThQCMs8ctOiZsbHxHacnLxEQVPEPNSPxnJsVNwU7NwkLA==
+     physical_name : .\PAGE_DocumentSearch.wwh
+     type : 65538
+   -
+     name : PAGE_DocumentEdit
+     identifier : 0x4ab74d460014a343
+     internal_properties : CAAAAAgAAACX8/8jgP21th9oZP2KFO6DD0gK6lNcPNNKZN8uYdk9w0nX7ib2wl4ZXNjCPsY6xjqCgg==
+     physical_name : .\PAGE_DocumentEdit.wwh
+     type : 65538
+   -
+     name : pTest
+     identifier : 0x424e94c800354c9c
+     internal_properties : CAAAAAgAAABs6kRQbxQcz5bvNyCt+J+kWAUnrxCAi4Czk83P8QETzXuHGPwjnTNs419Zp29hGY95+Q==
+     physical_name : .\pTest.wdg
+     type : 7
+   -
+     name : PAGETPL_Center_Left_aside
+     identifier : 0x42ef940300888a87
+     internal_properties : CAAAAAgAAACJiydjvAl5KpciAxIKOsur1PtCoS82uH0srgnGcE/IXifGoO+9i66TUJw3QGOHMJuM
+     physical_name : .\PAGETPL_Center_Left_aside.wwt
+     type : 65541
+   -
+     name : QRY_CategoryList
+     identifier : 0x4aafb15200079f3e
+     internal_properties : CAAAAAgAAAC5leElgv+3uB1qYv+UCOz9CVZ8fEUz8Px2JbrrMWWpr1HT7ib8xFwXXtrEPMQ8xDScpA==
+     physical_name : .\QRY_CategoryList.WDR
+     type : 5
+   -
+     name : TEST_pTest
+     identifier : 0x40b0a2d900222278
+     internal_properties : CAAAAAgAAAA7F2OnBEHp8skVtchonYAQ2VTgAKfPvhuLPUgULuQugrZqCCr1C64YloR+ejq2QrYeJg==
+     physical_name : .\TEST_pTest.wxt
+     type : 17
+  other_elements : []
+  analysis : .\WW_WebDoc.ana\WW_WebDoc.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : Text Extraction component
+     identifier : 0x46c5805000620e74
+     internal_properties : CAAAAAgAAABj1cryGjY40rIKn6sd4/BTSo3Ib4CaFYnl+fqLWp6d0aWq1/1weqiOOBOKCwiZ27IFwDiZaFesrZu1L9R4ZNQDoIrskJ8vdA==
+     wdi_physical_name : .\Text Extraction component.wdi
+     wdk_physical_name : .\Text Extraction component.wdk
+     original_name : \\se\ComplementVI\WX26\US\Encours\Components\Sample components\WB\WW_Extraction\Exe\Text Extraction component\Text Extraction component.wdi
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 160 FBooking
+ wb_color_palette : ILike & Light
+ languages :
+  - en-GB
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_DocumentAjoute
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_DocumentHistory
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_DocumentList
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_DocumentSearch
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_FindResult
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_Identification
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_Management
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAAzuB2VBDqqo9ujdvqmxXcP2SlQtq6oT+Kdvdz0WzoMadissej8GKNtMqkBqNgCfUEuyx9ZPSfVUaVSBZbZQRdKgNZoQmRs2hs=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      HCreationIfNotFound("*")
+      
+      // Global variables
+      CURRENTUSER is int = -1
+      ISADMIN           is boolean = False
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_WebDoc
+     identifier : 0x4aaf965900034338
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Text Extraction component
+    explorer_type : custom_folder
+    children :
+     -
+       name : pExtraction
+       explorer_type : element
+       type : 7
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
